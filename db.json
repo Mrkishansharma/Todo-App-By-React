@@ -1,0 +1,18 @@
+{
+  "todos": [
+    {
+      "name": "kishan",
+      "deadline": "2023-06-21",
+      "desc": "Description",
+      "isCompleted": false,
+      "id": 1
+    },
+    {
+      "name": "nxm301",
+      "deadline": "2023-06-11",
+      "desc": "nsmx cource",
+      "isCompleted": false,
+      "id": 2
+    }
+  ]
+}
